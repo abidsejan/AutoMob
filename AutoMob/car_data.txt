@@ -1,0 +1,7 @@
+Audi A6,53,58100.0
+Maybach-600,25,178450.0
+BMW M5,68,125500.0
+G-Wagon,30,149400.0
+S-Class,38,118900.0
+Range Rover,20,110100.0
+Toyota Crown,48,42600.0
